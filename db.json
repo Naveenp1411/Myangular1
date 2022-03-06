@@ -1,0 +1,30 @@
+{
+  "productList": [
+    {
+      "Name": "Deepika",
+      "Gender": "Female",
+      "DOB": "2022-03-12T06:00:00.000Z",
+      "Contact": 1998,
+      "Email": "deepu@gmail.com",
+      "id": 1
+    },
+    {
+      "Name": "Naveen",
+      "Gender": "Male",
+      "DOB": "2022-02-02T06:00:00.000Z",
+      "Contact": 9887,
+      "Email": "naveen@gmail.com",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
